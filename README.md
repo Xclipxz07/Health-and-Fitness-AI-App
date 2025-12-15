@@ -6,6 +6,9 @@ An AI-powered health and fitness planning tool that creates personalized wellnes
 **NEW**: Automatic fallback from OpenAI to Gemini ensures your app always works!
 (More AI models can be integrated as fallback mechanism if needed)
 
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/c39f41da-edd5-49ed-b5e6-a326a1a57faa" />
+
+
 ## ✨ Features
 
 - **🤖 Dual AI Support**: Uses OpenAI GPT-4 first, automatically falls back to Google Gemini if needed
@@ -189,9 +192,15 @@ If you encounter issues:
 
 ### Main Interface
 ![Main Interface - User inputs health profile in sidebar and receives personalized plan]
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/57db7564-5805-47ad-8998-f80e37ad55d1" />
+
 
 ### Generated Plan
 ![Sample Plan - Complete diet, workout, and lifestyle recommendations]
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/e0370dc9-ae20-4ed8-a14c-08df0f412b3f" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/40f20010-eab4-46c0-9030-ae41d625c244" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/5db78ab9-11cc-459a-84ed-6964f98fda09" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/af7e6fdd-4733-48ed-a2b5-56662996839f" />
 
 ---
 
