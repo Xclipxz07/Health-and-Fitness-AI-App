@@ -82,7 +82,7 @@ An AI-powered health and fitness planning tool that creates personalized wellnes
 ## 💡 Example Use Cases
 
 ### Case 1: Type 1 Diabetes Management
-**Profile**: Jethalal, 45 years old, recently diagnosed with Type 1 Diabetes, wants to lose weight
+**Profile**: 40 years old Uncle Ayush, recently diagnosed with Type 1 Diabetes, wants to lose weight
 
 **Plan Includes**:
 - Vegetarian meal guide with detailed carb counts
@@ -91,7 +91,7 @@ An AI-powered health and fitness planning tool that creates personalized wellnes
 - Progress tracking through HbA1c and weight logs
 
 ### Case 2: Weight Loss & Fitness
-**Profile**: Sarah, 32 years old, sedentary lifestyle, wants to lose 10kg and improve fitness
+**Profile**: Maria, 32 years old, sedentary lifestyle, wants to lose 10kg and improve fitness
 
 **Plan Includes**:
 - Calorie-controlled Mediterranean diet
