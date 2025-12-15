@@ -1,5 +1,6 @@
 # 🏋️‍♂️ AI Health & Fitness Plan Generator
 
+"EVERYTHING IS ACHEIVABLE THROUGH TECHNOLOGY" so for the betterment of Future created an AI powered app that can help humans lead a better lifestyle so _______ :
 An AI-powered health and fitness planning tool that creates personalized wellness strategies using OpenAI's GPT-4 and Google's Gemini with Streamlit. This application combines tailored diet plans, safe workout routines, and lifestyle adjustments to support various health goals including blood sugar control, weight loss, muscle gain, and overall wellness.
 
 **NEW**: Automatic fallback from OpenAI to Gemini ensures your app always works!
