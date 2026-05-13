@@ -297,6 +297,8 @@ If you encounter issues:
 
 
 **Built with ❤️ for better health and wellness from Apex Innovations**
+
+
 **Intelligence at its peak, Privacy at its core**
 #BuiltInPublic
 
